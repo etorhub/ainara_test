@@ -1,3 +1,2 @@
-const nom = 'Ainara';
+const nom = 'Etor';
 console.log('Hola ' + nom + '!, com estàs?');
-nom = 'Etor';
