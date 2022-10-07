@@ -1,1 +1,2 @@
-console.log('adeu');
+const nom = 'Ainara'
+console.log('Hola ' + nom + '!');
