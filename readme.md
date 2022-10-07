@@ -6,3 +6,5 @@
 ### Tecnologies
 
 - Volem fer servir HTML, CSS i Javascript.
+
+- patata
