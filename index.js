@@ -1,2 +1,2 @@
 const nom = 'Ainara'
-console.log('Hola ' + nom + '!');
+console.log('Hola ' + nom + '!, com estàs?');
